@@ -1,1 +1,2 @@
-Example of Github Actions topics
+Example of Github Actions topics.
+
